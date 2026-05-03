@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* If this works, your screen will turn dark grey immediately */
+body {
+  background-color: #141414 !important;
+  color: white !important;
+  margin: 0;
+}
